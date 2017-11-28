@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title> ¿Cómo atraer clientes gracias a la descripción de productos de mi eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/atraer-clientes-ecommerce</link>
+    <description>El sector del eCommerce sigue a día de hoy creciendo a pasos agigantados, dentro del mundo de los negocios online.</description>
+     <pubDate>Thu, 12 Oct 2017 12:58:07 +0200</pubDate>
+ <dc:creator>Pedro Méndez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/atraer-clientes-ecommerce</guid>
+  </item>
+  <item>
+    <title>Guía sobre cómo planificar vacaciones en negocios minoristas</title>
+    <link>https://www.prestashop.com/es/blog/planificacion-vacaciones-minoristas</link>
+    <description>Con el auge de días como el Black Friday, Small Busines Saturday, Cyber Monday, Green Monday, Super Saturday y Boxing Day, la definición del «empuje publicitario vacacional» se ha expandido sustanc</description>
+     <pubDate>Wed, 11 Oct 2017 11:07:50 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/planificacion-vacaciones-minoristas</guid>
+  </item>
+  <item>
+    <title>Las 3 fases de análisis para el Business Plan de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/fases-business-plan-ecommerce</link>
+    <description>Hoy quiero hablar sobre los 3 análisis que debes realizar para el Business Plan de tu tienda online: negocio, tecnología y marketing.</description>
+     <pubDate>Fri, 06 Oct 2017 14:04:16 +0200</pubDate>
+ <dc:creator>Fabián López Coloma</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/fases-business-plan-ecommerce</guid>
+  </item>
+  <item>
+    <title>¿Qué son los Addons y qué ventajas tienen para mi eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-son-addons-ecommerce</link>
+    <description>Comprar módulos en la plataforma de “PrestaShop Addons” tiene multitud de ventajas para tu eCommerce. En este artículo te hablaré de algunas de ellas.</description>
+     <pubDate>Tue, 03 Oct 2017 12:57:43 +0200</pubDate>
+ <dc:creator>Jose Antonio Gómez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-son-addons-ecommerce</guid>
+  </item>
+  <item>
+    <title>¿Qué es mailing y cómo puedes utilizarlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-mailing</link>
+    <description>Hay muchas estrategias y herramientas que un eCommerce necesita para sobrevivir. Y el mailing o campañas de email promocionales, sigue siendo aún una de las más rentables hoy en día.</description>
+     <pubDate>Tue, 03 Oct 2017 11:40:33 +0200</pubDate>
+ <dc:creator>Teresa Alba</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-mailing</guid>
+  </item>
+  <item>
+    <title>En 2017 batiremos el récord: ¡este año ya van más de 100 encuentros de PrestaShop! </title>
+    <link>https://www.prestashop.com/es/blog/en-2017-batiremos-el-record-este-ano-ya-van-mas-de-100-encuentros-de-prestashop</link>
+    <description>El 23 de septiembre de 2017 fue un día muy especial para PrestaShop y su comunidad. ¿El motivo? ¡El 100.º encuentro organizado desde principios de año!</description>
+     <pubDate>Tue, 03 Oct 2017 10:52:37 +0200</pubDate>
+ <dc:creator>AmbassadorTeam</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/en-2017-batiremos-el-record-este-ano-ya-van-mas-de-100-encuentros-de-prestashop</guid>
+  </item>
+  <item>
+    <title> Congreso Online y gratuito #Monetiza17 “Monetización Digital 2017”</title>
+    <link>https://www.prestashop.com/es/blog/congreso-monetiza17</link>
+    <description>¿Quieres aumentar la rentabilidad de tu eCommerce?</description>
+     <pubDate>Tue, 03 Oct 2017 10:02:23 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/congreso-monetiza17</guid>
+  </item>
+  <item>
+    <title>3 razones para visitarnos al ECSE México el 4 y 5 de octubre 2017</title>
+    <link>https://www.prestashop.com/es/blog/3-razones-para-visitarnos-al-ECSE-M%C3%A9xico-el-4-y-5-de-octubre-2017</link>
+    <description>PrestaShop y varias de sus agencias asociadas, como son G4A, Awiwi  y Pixel Web están listos para recibir a los asistentes un evento muy esperado en México: el ECSE.</description>
+     <pubDate>Thu, 28 Sep 2017 15:00:58 +0200</pubDate>
+ <dc:creator>MPerez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/3-razones-para-visitarnos-al-ECSE-M%C3%A9xico-el-4-y-5-de-octubre-2017</guid>
+  </item>
+  <item>
+    <title>¿Cómo puedes vender en Instagram los productos de tu eCommerce? </title>
+    <link>https://www.prestashop.com/es/blog/como-vender-en-instagram</link>
+    <description>¿Puedo vender en Instagram mis productos o servicios?</description>
+     <pubDate>Thu, 21 Sep 2017 12:22:49 +0200</pubDate>
+ <dc:creator>isabel.romero.carretero</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-vender-en-instagram</guid>
+  </item>
+  <item>
+    <title>¿Qué es el error 500 y cómo solucionarlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/error-500</link>
+    <description>¿Te han notificado alguna vez los usuarios de tu tienda online que, navegando por tu web, la pantalla de pronto se les quedaba en blanco?</description>
+     <pubDate>Wed, 30 Aug 2017 12:43:19 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/error-500</guid>
+  </item>
+  </channel>
+</rss>
